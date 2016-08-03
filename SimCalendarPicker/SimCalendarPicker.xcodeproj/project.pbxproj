@@ -294,6 +294,7 @@
 				79E401BA1D518AF500D2740B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
